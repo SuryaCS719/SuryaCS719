@@ -1,5 +1,3 @@
-## Hi there 👋
-
 <!--
 **SuryaCS719/SuryaCS719** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -18,7 +16,7 @@ Here are some ideas to get you started:
 
 
 
-<h1 align="center">Hi 👋, I'm <a target="blank">
+<h1 align="center">Hi, I'm <a target="blank">
 Surya</a></h1>
 <h3 align="center"> I solve algorithmic-style coding problems and do a bit of full-stack development &#127470;&#127475</h3>
 
