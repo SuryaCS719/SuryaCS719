@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 
 
-<h1 align="center">Hi 👋, I'm <a href="" target="blank">
+<h1 align="center">Hi 👋, I'm <a target="blank">
 Surya</a></h1>
 <h3 align="center"> I solve algorithmic-style coding problems and do a bit of full-stack development &#127470;&#127475</h3>
 
