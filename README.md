@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 Surya</a></h1>
 <h3 align="center"> I solve algorithmic-style coding problems and do a bit of full-stack development. </h3>
 
-<!--- <p align="left"> <img src="https://komarev.com/ghpvc/?username=100rabhcsmc&label=Profile%20views&color=0e75b6&style=flat" alt="100rabhcsmc" /> </p>  --->
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=suryacs719&label=Profile%20views&color=0e75b6&style=flat" alt="suryacs719" /> </p> 
 
 
 <a target="_blank" align="center">
