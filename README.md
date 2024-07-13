@@ -9,7 +9,7 @@
 ## 🔭 About Me
 
 - 🎓 Incoming Master's student in Computer Science and Engineering at UC Santa Cruz.
-- 💻 Experienced in full-stack development with a focus on JavaScript, React, Node.js, and MongoDB.
+- 💻 Experienced in full-stack development with a focus on MERN Stack.
 - 🧠 Passionate about solving algorithmic problems and designing scalable web applications.
 - 🌱 Currently exploring cloud technologies (AWS, Azure) and machine learning.
 - 👯 Open to collaborating on exciting projects and learning from others.
@@ -19,7 +19,6 @@
 - **Junior Software Engineer Intern @ Phoenix Global (April 2023 - June 2023)**
   - Developed and deployed a machine learning-based movie recommendation system with 90%+ accuracy.
   - Actively participated in code reviews, reducing post-deployment bugs by 10%.
-  - Received the Star Intern Award for contributions and teamwork.
 
 ## 🏆 Projects
 
@@ -38,7 +37,7 @@
 - **Frameworks/Libraries:** Node.js, Express.js, React.js, Redux, RESTful APIs, HTML, CSS
 - **Databases:** MongoDB, MySQL
 - **Tools:** Git, VS Code, PyCharm, Postman
-- **Machine Learning:** Scikit-Learn, NumPy, Pandas
+- **IT Constructs:** DSA, OOPs, LLD, GenAI, ML
 
 ## 📫 Let's Connect!
 
