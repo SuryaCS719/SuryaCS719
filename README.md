@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I'm Surya 👋</h1>
 
-<h3 align="center"> CS Grad @UCSC | Aspiring Software Engineer | Passionate about Algorithms & Problem Solving </h3>
+<h3 align="center"> CS Grad @UCSC | Aspiring Software Engineer | Passionate about Problem Solving & Algorithms </h3>
 
 <a target="_blank" align="center">
  <img align="right" top="500" height="300" width="400" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
