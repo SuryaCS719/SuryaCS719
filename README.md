@@ -1,65 +1,52 @@
-<!--
-**SuryaCS719/SuryaCS719** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center">Hi, I'm Surya 👋</h1>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-
-
-
-<h1 align="center">Hi, I'm <a target="blank">
-Surya</a></h1>
-<h3 align="center"> I solve algorithmic-style coding problems and do a bit of full-stack development. </h3>
-
-<!--- <p align="left"> <img src="https://komarev.com/ghpvc/?username=suryacs719&label=Profile%20views&color=0e75b6&style=flat" alt="suryacs719" /> </p> --->
-
+<h3 align="center">Aspiring Software Engineer | UC Santa Cruz CS Grad | Passionate about Algorithms & Full-Stack Development</h3>
 
 <a target="_blank" align="center">
-  <img align="right" top="500" height="300" width="400" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
+ <img align="right" top="500" height="300" width="400" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
 </a>
 
-<!--- - 🔭 I’m currently working in <a href="https://phoenix.tech/griffyn/" target="blank">Griffyn Robotech Private Limited</a> 
+## 🔭 About Me
 
+- 🎓 Incoming Master's student in Computer Science and Engineering at UC Santa Cruz.
+- 💻 Experienced in full-stack development with a focus on JavaScript, React, Node.js, and MongoDB.
+- 🧠 Passionate about solving algorithmic problems and designing scalable web applications.
+- 🌱 Currently exploring cloud technologies (AWS, Azure) and machine learning.
+- 👯 Open to collaborating on exciting projects and learning from others.
 
-- 📄 Know about my experiences <a href="https://github.com/100rabhcsmc/Me.io/blob/master/01SaurabhChavanReactNativeResume.pdf" target="blank">Resume</a>
-<br/>
---->
+## 💼 Experience
 
-<h3 align="center" > <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;">Socials 🤝 </h3>
+- **Junior Software Engineer Intern @ Phoenix Global (April 2023 - June 2023)**
+  - Developed and deployed a machine learning-based movie recommendation system with 90%+ accuracy.
+  - Actively participated in code reviews, reducing post-deployment bugs by 10%.
+  - Received the Star Intern Award for contributions and teamwork.
+
+## 🏆 Projects
+
+- **LearnNexis - Ed-Tech Platform** ([GitHub](https://github.com/SuryaCS719/LearnNexis) | [Live](https://learn-nexis-surya-gitam.vercel.app/))
+  - Full-stack platform for creating, consuming, and rating educational content.
+  - Implemented secure user authentication, payment processing, and RESTful APIs.
+  - Deployed on Vercel and Render, supporting up to 1,000 users.
+
+- **CinemaGuide - Movie Recommendation System** ([GitHub](https://github.com/SuryaCS719/CinemaGuide) | [Live](https://cinemaguide-suryacs719.streamlit.app/))
+  - Content-based movie recommendation engine with 92% accuracy.
+  - Developed a web application to display recommendations and integrated IMDb for additional information.
+
+## 🛠️ Tech Stack
+
+- **Languages:** C/C++, Python, JavaScript, Java, Haskell
+- **Frameworks/Libraries:** Node.js, Express.js, React.js, Redux, RESTful APIs, HTML, CSS
+- **Databases:** MongoDB, MySQL
+- **Tools:** Git, VS Code, PyCharm, Postman
+- **Machine Learning:** Scikit-Learn, NumPy, Pandas
+
+## 📫 Let's Connect!
 
 <p align="center">
-
- <div align="center"  class="icons-social" style="margin-left: 10px;">
-        <a style="margin-left: 10px;"  target="_blank" href="https://www.linkedin.com/in/suryakiranvalavala/">
+ <div align="center" class="icons-social" style="margin-left: 10px;">
+    <a style="margin-left: 10px;" target="_blank" href="https://www.linkedin.com/in/suryakiranvalavala/">
 			<img src="https://img.icons8.com/doodle/40/000000/linkedin--v2.png"></a>
-        <a style="margin-left: 10px;" target="_blank" href="https://github.com/SuryaCS719">
+    <a style="margin-left: 10px;" target="_blank" href="https://github.com/SuryaCS719">
 		<img src="https://img.icons8.com/doodle/40/000000/github--v1.png"></a>
-
-  <!---
-		<a style="margin-left: 10px;" target="_blank" href="https://stackoverflow.com/users/12053852/saurabh-chavan?tab=profile">
-				<img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/40/000000/external-stack-overflow-is-a-question-and-answer-site-for-professional-logo-color-tal-revivo.png"></a>
-	   <a style="margin-left: 10px;" target="_blank" href="https://dev.to/100rabhcsmc">
-					<img src="https://img.icons8.com/external-sketchy-juicy-fish/0.6x/external-blog-online-services-sketchy-sketchy-juicy-fish.png"></a>
-        <a style="margin-left: 10px;" target="_blank" href="https://instagram.com/100rabhch">
-			<img src="https://img.icons8.com/doodle/40/000000/instagram-new--v2.png"></a>
-		<a style="margin-left: 10px;" target="_blank" href="https://twitter.com/100rabhcsmc">
-			<img src="https://img.icons8.com/doodle/1x/twitter-squared--v2.png" ></a>
-		<a style="margin-left: 10px;" target="_blank" href="https://www.youtube.com/channel/UC-ZdNkKNHC6KguDqNFKO2Nw?view_as=subscriber">
-				<img src="https://img.icons8.com/doodle/1x/youtube--v2.png" ></a>
-		<a style="margin-left: 5px;" target="_blank" href="https://github.com/100rabhcsmc/Me.io/blob/master/01SaurabhChavanReactNativeResume.pdf">
-					<img src="https://img.icons8.com/plasticine/0.5x/resume.png" ></a>  ---->
-      
-     
- </div>
-
+ </div>
 </p>
-
