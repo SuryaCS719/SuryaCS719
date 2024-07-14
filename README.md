@@ -8,7 +8,7 @@
 
 ## 🔭 About Me
 
-- 🎓 Incoming Master's student in Computer Science and Engineering at UC Santa Cruz.
+- 🎓 Master's student in Computer Science and Engineering at UC Santa Cruz.
 - 💻 Experienced in full-stack development with a focus on MERN Stack.
 - 🧠 Passionate about solving algorithmic problems and designing scalable web applications.
 - 🌱 Currently exploring cloud technologies (AWS, Azure) and machine learning.
