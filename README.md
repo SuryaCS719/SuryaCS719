@@ -16,6 +16,11 @@
 
 ## 💼 Experience
 
+- **Full-stack Developer Intern @ Code Clause (July 2023 - Sept 2023)**
+  - Revamped app navigation and frontend functionalities, resulting in a 20% reduction in screen load times and a 25% improvement in overall application performance.
+  - Translated intricate UI designs into efficient and maintainable code using React Native’s component-based architecture, achieving a 30% reduction in development time.
+  - Designed and implemented advanced features such as intuitive gestures, real-time rate updates, chatbot integration, and Instagram-inspired user stories, which led to a 40% increase in user engagement.
+
 - **Junior Software Engineer Intern @ Phoenix Global (April 2023 - June 2023)**
   - Developed and deployed a machine learning-based movie recommendation system with 90%+ accuracy.
   - Actively participated in code reviews, reducing post-deployment bugs by 10%.
@@ -34,10 +39,10 @@
 ## 🛠️ Tech Stack
 
 - **Languages:** C/C++, Python, JavaScript, Java, Haskell
-- **Frameworks/Libraries:** Node.js, Express.js, React.js, Redux, RESTful APIs, HTML, CSS
-- **Databases:** MongoDB, MySQL
-- **Tools:** Git, VS Code, PyCharm, Postman
-- **IT Constructs:** DSA, OOPs, LLD, GenAI, ML
+- **Frameworks/Libraries:** Node.js, Express.js, React.js, Angular.js, RESTful APIs, HTML, CSS, Tailwind CSS
+- **Databases:** MongoDB, Firebase, MySQL
+- **Tools:** Git, AWS, VS Code, PyCharm, Postman
+- **IT Constructs:** DSA, OOPs, LLD, DBMS, OS, GenAI, ML
 
 ## 📫 Socials
 
