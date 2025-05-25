@@ -32,7 +32,7 @@
 - **📁 FastStore – Distributed File System (Go, gRPC, Raft)**  
   > Lightweight DFS with chunking, metadata coordination, and replication  
   > Features: Protobuf APIs, leader election with Raft, and in-memory node replication  
-  [GitHub Repo](https://github.com/SuryaCS719/FastStore)
+  [GitHub Repo](https://github.com/SuryaCS719/FastStore-go)
 
 - **🧠 LearnNexis – EdTech Platform**  
   > Full-stack app for educational content delivery with secure payments and RESTful APIs  
