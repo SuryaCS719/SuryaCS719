@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Surya 👋</h1>
+<h1 align="center">Hi, I'm Surya </h1>
 <h3 align="center">CS Grad @ UC Santa Cruz | Incoming SWE Intern @ Temporal | Systems & Backend Engineering</h3>
 
 ---
