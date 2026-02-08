@@ -32,15 +32,15 @@
 - **FastStore – Distributed File System (Go, gRPC, Raft)**  
   > Lightweight DFS with chunking, metadata coordination, and replication  
   > Features: Protobuf APIs, leader election with Raft, and in-memory node replication  
-  [GitHub Repo](https://github.com/SuryaCS719/FastStore-go)
+  [Source code](https://github.com/SuryaCS719/FastStore-go)
 
 - **LearnNexis – EdTech Platform**  
   > Full-stack app for educational content delivery with secure payments and RESTful APIs  
-  [GitHub](https://github.com/SuryaCS719/LearnNexis) • [Live](https://learn-nexis-surya-gitam.vercel.app/)
+  [Source code](https://github.com/SuryaCS719/LearnNexis) • [Live](https://learn-nexis-surya-gitam.vercel.app/)
 
 - **CinemaGuide – Movie Recommendation System**  
   > Web-based app with content-based recommendations and IMDb enrichment  
-  [GitHub](https://github.com/SuryaCS719/CinemaGuide) • [Live](https://cinemaguide-suryacs719.streamlit.app/)
+  [Source code](https://github.com/SuryaCS719/CinemaGuide) • [Live](https://cinemaguide-suryacs719.streamlit.app/)
 
 ---
 
