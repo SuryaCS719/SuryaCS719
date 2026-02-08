@@ -3,7 +3,7 @@
 
 ---
 
-## 🔧 About Me
+## About Me
 
 - 🎓 I'm a Computer Science graduate student at UC Santa Cruz, focused on backend systems and distributed computing.
 - 💡 I enjoy building reliable, scalable systems using Go, gRPC, and strong data structures.
@@ -12,7 +12,7 @@
 
 ---
 
-## 💼 Experience
+## Experience
 
 - **Teaching Assistant – CSE101: Data Structures & Algorithms**
   - Guided 600+ students across two quarters, debugging and strengthening problem-solving skills.
@@ -27,7 +27,7 @@
 
 ---
 
-## 🏗️ Projects
+## Projects
 
 - **📁 FastStore – Distributed File System (Go, gRPC, Raft)**  
   > Lightweight DFS with chunking, metadata coordination, and replication  
@@ -44,7 +44,7 @@
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 **Languages:** Go, C++, Python, JavaScript, Java  
 **Frameworks:** gRPC, Node.js, React Native, Express.js  
@@ -53,9 +53,9 @@
 
 ---
 
-## 📫 Socials
+## Socials
 
-<p align="center">
+<p align="left">
   <a href="https://www.linkedin.com/in/suryakiranvalavala/" target="_blank">
     <img src="https://img.icons8.com/doodle/40/000000/linkedin--v2.png" alt="LinkedIn">
   </a>
