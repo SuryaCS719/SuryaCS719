@@ -5,11 +5,10 @@
 
 ## About Me
 
-- 🎓 I'm a Computer Science graduate student at UC Santa Cruz, focused on backend systems and distributed computing.
-- 💡 I enjoy building reliable, scalable systems using Go, gRPC, and strong data structures.
-- 🌐 Currently exploring coordination, service orchestration, and system resilience at scale.
-- 🤝 Incoming Software Engineering Intern at **Temporal**, where I’m excited to contribute to cloud infrastructure and developer platforms.
-
+- I'm a Computer Science graduate student at UC Santa Cruz, focused on distributed and backend systems.
+- I enjoy working on problems involving reliability, scale, and coordination, especially questions about how to build systems that stay consistent and workflows that are easy to reason about.
+- I tend to approach things from first principles. I question assumptions, try to simplify wherever I can, and focus on what actually needs to be solved. What matters to me is building things that work well, stay reliable, and don't fall apart when requirements change.
+  
 ---
 
 ## Experience
@@ -30,16 +29,16 @@
 
 ## Projects
 
-- **📁 FastStore – Distributed File System (Go, gRPC, Raft)**  
+- **FastStore – Distributed File System (Go, gRPC, Raft)**  
   > Lightweight DFS with chunking, metadata coordination, and replication  
   > Features: Protobuf APIs, leader election with Raft, and in-memory node replication  
   [GitHub Repo](https://github.com/SuryaCS719/FastStore-go)
 
-- **🧠 LearnNexis – EdTech Platform**  
+- **LearnNexis – EdTech Platform**  
   > Full-stack app for educational content delivery with secure payments and RESTful APIs  
   [GitHub](https://github.com/SuryaCS719/LearnNexis) • [Live](https://learn-nexis-surya-gitam.vercel.app/)
 
-- **🎬 CinemaGuide – Movie Recommendation System**  
+- **CinemaGuide – Movie Recommendation System**  
   > Web-based app with content-based recommendations and IMDb enrichment  
   [GitHub](https://github.com/SuryaCS719/CinemaGuide) • [Live](https://cinemaguide-suryacs719.streamlit.app/)
 
