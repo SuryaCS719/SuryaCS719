@@ -14,16 +14,17 @@
 
 ## Experience
 
-- **Teaching Assistant – CSE101: Data Structures & Algorithms**
-  - Guided 600+ students across two quarters, debugging and strengthening problem-solving skills.
-  - Designed and deployed an internal tool to automate MOSS plagiarism detection, streamlining course integrity workflows.
+- **Software Engineer Intern – Temporal Technologies**
+  - Cloud Global Services | Internal Migrations
 
-- **Software Engineering Intern – Phoenix Global**
-  - Built a content-based recommendation system; contributed to model deployment in a production-style web app.
-  - Worked on data preprocessing, feature engineering, and ranking logic using Python and scikit-learn.
+- **Teaching Assistant - Baskin Engineering UCSC**
+  - Data Structures & Algorithms (CS101) | Academic Integrity Infrastructure
 
-- **Full-Stack Developer Intern – CodeClause**
-  - Developed a mobile app using React Native, Node.js, and MongoDB with JWT-secured authentication and real-time UI components.
+- **Software Engineer Intern – CodeClause**
+  - Backend Services & Observability
+  
+- **Software Engineer Intern – Phoenix Global**
+  - Full Stack Systems & CI/CD
 
 ---
 
