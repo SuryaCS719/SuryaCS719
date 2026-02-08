@@ -1,5 +1,5 @@
 <!-- <h1 align="center">Hi, I'm Surya </h1> -->
-<h3 align="center">Systems thinking & Backend Engineering</h3>
+<h3 align="center">Distributed Systems & Backend Engineering</h3>
 
 ---
 
@@ -48,12 +48,12 @@
 
 **Languages:** Go, C++, Python, JavaScript, Java  
 **Frameworks:** gRPC, Node.js, React Native, Express.js  
-**Concepts:** Distributed Systems, System Design, DSA, Raft, Protocol Buffers  
+**IT Constructs:** Distributed Systems, System Design, Networks
 **Tools:** Git, Docker, MongoDB, Postman, Firebase, AWS
 
 ---
 
-## 📫 Connect With Me
+## 📫 Socials
 
 <p align="center">
   <a href="https://www.linkedin.com/in/suryakiranvalavala/" target="_blank">
