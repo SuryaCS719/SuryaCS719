@@ -4,9 +4,9 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=16&pause=1000&color=6E7681&center=true&vCenter=true&width=435&lines=Distributed+Systems+Engineer;AI+Systems+%26+Agentic+Workflows;Go+%7C+gRPC+%7C+Raft+%7C+MCP)](https://git.io/typing-svg)
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/suryakiranvalavala)
-<!-- [![Email](https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:suryakiran0709@gmail.com) -->
-[![Resume](https://img.shields.io/badge/Resume-111111?style=flat&logo=readme&logoColor=white)](https://github.com/suryaCS719/resume)
+<a href="https://linkedin.com/in/suryakiranvalavala" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white"/></a>
+&nbsp;&nbsp;&nbsp;
+<a href="https://github.com/suryaCS719/resume" target="_blank"><img src="https://img.shields.io/badge/Resume-111111?style=flat&logo=readme&logoColor=white"/></a>
 
 </div>
 
