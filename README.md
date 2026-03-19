@@ -2,7 +2,13 @@
 
 # Surya Valavala
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=16&pause=1000&color=6E7681&center=true&vCenter=true&width=435&lines=Distributed+Systems+Engineer;AI+Systems+%26+Agentic+Workflows;Go+%7C+gRPC+%7C+Raft+%7C+MCP)](https://git.io/typing-svg)
+<table width="100%" border="0" cellspacing="0" cellpadding="0">
+<tr>
+<td align="left"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=15&pause=2000&color=6E7681&center=false&vCenter=true&width=250&lines=Distributed+Systems+Engineer"/></td>
+<td align="center"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=15&pause=2000&color=6E7681&center=true&vCenter=true&width=320&delay=800&lines=AI+Systems+%26+Agentic+Workflows"/></td>
+<td align="right"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=15&pause=2000&color=6E7681&center=false&vCenter=true&width=200&delay=1600&lines=Go+%7C+gRPC+%7C+Raft+%7C+MCP"/></td>
+</tr>
+</table>
 
 <a href="https://linkedin.com/in/suryakiranvalavala" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white"/></a>
 &nbsp;&nbsp;&nbsp;
