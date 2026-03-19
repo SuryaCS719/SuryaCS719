@@ -1,62 +1,51 @@
-<!-- <h1 align="center">Hi, I'm Surya </h1> -->
-<h3 align="center">Distributed Systems & Backend Engineering</h3>
+<div align="center">
 
----
+# Surya Valavala
 
-## About Me
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=16&pause=1000&color=6E7681&center=true&vCenter=true&width=435&lines=Distributed+Systems+Engineer;AI+Systems+%26+Agentic+Workflows;Go+%7C+gRPC+%7C+Raft+%7C+MCP)](https://git.io/typing-svg)
 
-- I'm a Computer Science graduate student at UC Santa Cruz, focused on distributed and backend systems.
-- I enjoy working on problems involving reliability, scale, and coordination, especially questions about how to build systems that stay consistent and workflows that are easy to reason about.
-- I tend to approach things from first principles. I question assumptions, try to simplify wherever I can, and focus on what actually needs to be solved. What matters to me is building things that work well, stay reliable, and don't fall apart when requirements change.
-  
----
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/suryakiranvalavala)
+<!-- [![Email](https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:suryakiran0709@gmail.com) -->
+[![Resume](https://img.shields.io/badge/Resume-111111?style=flat&logo=readme&logoColor=white)](https://github.com/suryaCS719/resume)
 
-## Experience
-
-- **Software Engineer Intern – Temporal Technologies**
-  - Cloud Global Services | Internal Migrations
-
-- **Teaching Assistant - Baskin Engineering UCSC**
-  - Data Structures & Algorithms (CS101) | Academic Integrity Infrastructure
-
-- **Software Engineer Intern – CodeClause**
-  - Backend Services & Observability
-  
-- **Software Engineer Intern – Phoenix Global**
-  - Full Stack Systems & CI/CD
+</div>
 
 ---
 
 ## Projects
 
-- **FastStore – Distributed File System (Go, gRPC, Raft)**  
-  > Lightweight DFS with chunking, metadata coordination, and replication  
-  > Features: Protobuf APIs, leader election with Raft, and in-memory node replication  
-  [Source code](https://github.com/SuryaCS719/FastStore-go)
+**[OCLD](https://github.com/SuryaCS719)** — AI agent built on OpenAI API, Slack, and MCP that brings conversational interaction to complex internal developer tooling. Running in production for engineer onboarding.
 
-- **LearnNexis – EdTech Platform**  
-  > Full-stack app for educational content delivery with secure payments and RESTful APIs  
-  [Source code](https://github.com/SuryaCS719/LearnNexis) • [Live](https://learn-nexis-surya-gitam.vercel.app/)
+**[FastStore](https://github.com/SuryaCS719)** — Distributed file system in Go with chunking, consistent hashing, Raft-based metadata coordination, and gRPC transport. Achieves 85% of local storage throughput.
 
-- **CinemaGuide – Movie Recommendation System**  
-  > Web-based app with content-based recommendations and IMDb enrichment  
-  [Source code](https://github.com/SuryaCS719/CinemaGuide) • [Live](https://cinemaguide-suryacs719.streamlit.app/)
+**[MOSS Platform](https://github.com/SuryaCS719)** — Plagiarism detection system processing 2,400+ submissions annually. 84% reduction in manual review workload.
+
+**[Housing Intel](https://github.com/SuryaCS719)** — AI-native rental research tool using MCP to orchestrate live scraping, LLM-powered sentiment analysis for safety red-flag detection, and ranked listing delivery via slash commands.
 
 ---
 
-## Tech Stack
+## Stack
 
-**Languages:** Go, C++, Python, JavaScript, Java  
-**Frameworks:** gRPC, Node.js, React Native, Express.js  
-**IT Constructs:** Distributed Systems, System Design, Networks
-**Tools:** Git, Docker, MongoDB, Postman, Firebase, AWS
+<div align="center">
+
+[![Go](https://skillicons.dev/icons?i=go)](https://go.dev)
+[![Python](https://skillicons.dev/icons?i=py)](https://python.org)
+[![C++](https://skillicons.dev/icons?i=cpp)](https://isocpp.org)
+[![Kubernetes](https://skillicons.dev/icons?i=kubernetes)](https://kubernetes.io)
+[![Docker](https://skillicons.dev/icons?i=docker)](https://docker.com)
+[![PostgreSQL](https://skillicons.dev/icons?i=postgres)](https://postgresql.org)
+[![MongoDB](https://skillicons.dev/icons?i=mongodb)](https://mongodb.com)
+[![Linux](https://skillicons.dev/icons?i=linux)](https://kernel.org)
+[![Git](https://skillicons.dev/icons?i=git)](https://git-scm.com)
+
+</div>
+
+<div align="center">
+<sub>gRPC · Protocol Buffers · Raft · MCP · OpenAI Agents SDK · RAG · Cassandra</sub>
+</div>
 
 ---
 
-## Socials
-
-<p align="left">
-  <a href="https://www.linkedin.com/in/suryakiranvalavala/" target="_blank">
-    <img src="https://img.icons8.com/doodle/40/000000/linkedin--v2.png" alt="LinkedIn">
-  </a>
-</p>
+<div align="center">
+<sub>distributed systems · agentic workflows · production infrastructure</sub>
+</div>
